@@ -7,8 +7,6 @@ class wind
 {
 public:
     wind();
-    void translate(string input);
-    bool valid;
 };
 
 class Metar

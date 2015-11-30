@@ -5,7 +5,7 @@ wind::wind()
     valid = false;
 }
 
-void wind::translatestring(string input)
+void wind::translate(string input)
 {
     if(input.length() > 2)
     {

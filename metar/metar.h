@@ -7,7 +7,7 @@ class wind
 {
 public:
     wind();
-    void translatestring(string input);
+    void translate(string input);
     bool valid;
 };
 
